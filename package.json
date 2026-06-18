@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "@tobyg74/tiktok-api-dl": "^1.2.0"
+    "tiktok-scraper": "^1.4.36"
   }
 }
