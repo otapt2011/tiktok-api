@@ -1,0 +1,6 @@
+{
+  "apt": [
+    "build-essential",
+    "python3"
+  ]
+}
