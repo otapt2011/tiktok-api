@@ -1,5 +1,5 @@
 {
-  "name": "tiktok-api",
+  "name": "sqlite-server",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "tiktok-scraper": "^1.4.36"
+    "better-sqlite3": "^11.6.0"
   }
 }
