@@ -1,5 +1,5 @@
 const express = require('express');
-const { TikTokScraper } = require('tiktok-scraper-ts');
+const TikTokScraper = require('tiktok-scraper-ts').default; // ← fix: use .default
 const app = express();
 const PORT = process.env.PORT || 3000;
 
